@@ -23,7 +23,7 @@ sections:
     styles:
       self:
         justifyContent: center
-slug: /cert/32a8df6c97744e78813dbba1d18c7747
+slug: /edxverify.netlify.app/cert/32a8df6c97744e78813dbba1d18c7747/
 isDraft: false
 seo:
   type: Seo
