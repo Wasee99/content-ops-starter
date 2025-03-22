@@ -3,7 +3,7 @@ type: PageLayout
 title: cert
 sections: []
 slug: empty
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
